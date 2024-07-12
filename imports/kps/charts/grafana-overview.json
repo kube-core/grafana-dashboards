@@ -546,7 +546,7 @@
       "1d"
     ]
   },
-  "timezone": "utc",
+  "timezone": "",
   "title": "Grafana Overview",
   "uid": "6be0s85Mk",
   "version": 2

@@ -570,7 +570,7 @@
     "from": "now-1h",
     "to": "now"
   },
-  "timezone": "UTC",
+  "timezone": "",
   "title": "Kubernetes / Scheduler",
   "uid": "2e6b6a3b4bddf1427b3a55aa1311c656"
 }

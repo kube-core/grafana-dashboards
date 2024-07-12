@@ -625,7 +625,7 @@
     "from": "now-1h",
     "to": "now"
   },
-  "timezone": "utc",
+  "timezone": "",
   "title": "Kubernetes / Proxy",
   "uid": "632e265de029684c40b21cb76bca4f94"
 }

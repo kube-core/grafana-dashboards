@@ -670,7 +670,7 @@
     "from": "now-1h",
     "to": "now"
   },
-  "timezone": "utc",
+  "timezone": "",
   "title": "Kubernetes / Compute Resources / Cluster(Windows)",
   "uid": "4d08557fd9391b100730f2494bccac68"
 }

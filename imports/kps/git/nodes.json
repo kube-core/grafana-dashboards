@@ -955,7 +955,7 @@
       "30d"
     ]
   },
-  "timezone": "utc",
+  "timezone": "",
   "title": "Node Exporter / Nodes",
   "version": 0
 }

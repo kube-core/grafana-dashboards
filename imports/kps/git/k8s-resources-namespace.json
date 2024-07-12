@@ -1487,7 +1487,7 @@
     "from": "now-1h",
     "to": "now"
   },
-  "timezone": "UTC",
+  "timezone": "",
   "title": "Kubernetes / Compute Resources / Namespace (Pods)",
   "uid": "85a562078cdf77779eaa1add43ccec1e"
 }

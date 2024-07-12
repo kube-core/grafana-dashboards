@@ -936,7 +936,7 @@
       "30d"
     ]
   },
-  "timezone": "utc",
+  "timezone": "",
   "title": "Node Exporter / USE Method / Node",
   "version": 0
 }

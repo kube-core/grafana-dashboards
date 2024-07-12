@@ -1437,7 +1437,7 @@
       "30d"
     ]
   },
-  "timezone": "browser",
+  "timezone": "",
   "title": "Prometheus / Remote Write",
   "version": 0
 }

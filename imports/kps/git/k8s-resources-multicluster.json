@@ -610,7 +610,7 @@
     "from": "now-1h",
     "to": "now"
   },
-  "timezone": "UTC",
+  "timezone": "",
   "title": "Kubernetes / Compute Resources /  Multi-Cluster",
   "uid": "b59e6c9f2fcbe2e16d77fc492374cc4f"
 }

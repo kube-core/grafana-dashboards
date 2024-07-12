@@ -765,7 +765,7 @@
     "from": "now-1h",
     "to": "now"
   },
-  "timezone": "UTC",
+  "timezone": "",
   "title": "Kubernetes / Networking / Namespace (Workload)",
   "uid": "bbb2a765a623ae38130206c7d94a160f"
 }

@@ -399,7 +399,7 @@
     "from": "now-1h",
     "to": "now"
   },
-  "timezone": "utc",
+  "timezone": "",
   "title": "Kubernetes / USE Method / Cluster(Windows)",
   "uid": "53a43377ec9aaf2ff64dfc7a1f539334"
 }

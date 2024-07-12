@@ -851,7 +851,7 @@
     "from": "now-1h",
     "to": "now"
   },
-  "timezone": "UTC",
+  "timezone": "",
   "title": "Kubernetes / API server",
   "uid": "09ec8aa1e996d6ffcd6817bbaff4db1b"
 }

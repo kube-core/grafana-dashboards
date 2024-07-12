@@ -1223,7 +1223,7 @@
     "from": "now-1h",
     "to": "now"
   },
-  "timezone": "utc",
+  "timezone": "",
   "title": "Kubernetes / Kubelet",
   "uid": "3138fa155d5915769fbded898ac09fd9"
 }

@@ -514,7 +514,7 @@
       "30d"
     ]
   },
-  "timezone": "utc",
+  "timezone": "",
   "title": "Alertmanager / Overview",
   "uid": "alertmanager-overview",
   "version": 0

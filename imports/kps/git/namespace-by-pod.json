@@ -607,7 +607,7 @@
     "from": "now-1h",
     "to": "now"
   },
-  "timezone": "UTC",
+  "timezone": "",
   "title": "Kubernetes / Networking / Namespace (Pods)",
   "uid": "8b7a8b326d7a6f1f04244066368c67af"
 }

@@ -10,7 +10,7 @@ yq '.items[]' dump.yaml -s '.metadata.name'
 
 ls | grep "grafana-dashboard" | while read file ; do
 outputFile=$(echo "$file" | sed 's|grafana-dashboard-||' | sed 's|.yml|.json|')
-yq -r '.data[]' $file | jq -r --sort-keys > ../imports/kps/git/$outputFile
+yq -r '.data[]' $file | jq '.timezone = ""' -r --sort-keys > ../imports/kps/git/$outputFile
 done
 
 cd -
@@ -27,7 +27,7 @@ yq -s '.metadata.name' dashboard-configmaps.yaml
 
 ls | grep "release-name-kube-promethe" | while read file ; do
 outputFile=$(echo "$file" | sed 's|release-name-kube-promethe-||' | sed 's|.yml|.json|')
-yq -r '.data[]' $file | jq -r --sort-keys > ../imports/kps/charts/$outputFile
+yq -r '.data[]' $file | jq '.timezone = ""' -r --sort-keys > ../imports/kps/charts/$outputFile
 done
 
 cd -

@@ -916,7 +916,7 @@
       "30d"
     ]
   },
-  "timezone": "utc",
+  "timezone": "",
   "title": "Node Exporter / USE Method / Cluster",
   "version": 0
 }

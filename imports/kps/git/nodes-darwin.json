@@ -962,7 +962,7 @@
       "30d"
     ]
   },
-  "timezone": "utc",
+  "timezone": "",
   "title": "Node Exporter / MacOS",
   "version": 0
 }

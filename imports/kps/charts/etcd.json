@@ -535,7 +535,7 @@
     "from": "now-15m",
     "to": "now"
   },
-  "timezone": "utc",
+  "timezone": "",
   "title": "etcd",
   "uid": "c2f4e12cdf69feb95caa41a5a1b423d9"
 }
